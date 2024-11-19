@@ -18,7 +18,6 @@ public class Main {
     public static void main(String[] args) {
 
 
-
         Database.actors.add(new Actor("Brad Pit", "Police officer"));
         Database.actors.add(new Actor("Cillian Murphy", "Scientist"));
 
