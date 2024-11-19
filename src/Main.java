@@ -95,6 +95,7 @@ public class Main {
          break;
                 default:
                     System.out.println("Method not found!");
+                    System.out.println("test");
 
             }
 
